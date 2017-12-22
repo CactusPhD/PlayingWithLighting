@@ -1,0 +1,28 @@
+﻿  main.cpp
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\mat.h(16): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\mat.h(701): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\mat.h(702): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\mat.h(703): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\mat.h(724): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\mat.h(726): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\mat.h(729): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\mat.h(746): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(36): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(58): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(170): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(173): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(176): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(179): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(186): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(189): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(192): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(195): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(338): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(339): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(340): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(341): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\rcb8643\documents\visual studio 2017\projects\project1.4\project1.4\main.cpp(401): warning C4305: 'argument': truncation from 'double' to 'float'
+  Project1.4.vcxproj -> C:\Users\rcb8643\Documents\Visual Studio 2017\Projects\Project1.4\Debug\Project1.4.exe
+  Project1.4.vcxproj -> C:\Users\rcb8643\Documents\Visual Studio 2017\Projects\Project1.4\Debug\Project1.4.pdb (Partial PDB)
